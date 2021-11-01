@@ -1,3 +1,3 @@
-# tt-viic   --   webpage
+# tt-viic
 
 ### Under maintenance, setting up all and finishing it.
